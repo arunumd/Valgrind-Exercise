@@ -1,6 +1,6 @@
 # Valgrind Exercise
-[![Build Status](https://travis-ci.org/dpiet/cpp-boilerplate.svg?branch=master)](https://travis-ci.org/dpiet/cpp-boilerplate)
-[![Coverage Status](https://coveralls.io/repos/github/dpiet/cpp-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/dpiet/cpp-boilerplate?branch=master)
+[![Build Status](https://travis-ci.org/arunumd/cpp-boilerplate.svg?branch=master)](https://travis-ci.org/arunumd/cpp-boilerplate)
+[![Coverage Status](https://coveralls.io/repos/github/arunumd/cpp-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/arunumd/cpp-boilerplate?branch=master)
 ---
 
 ## Overview
@@ -9,6 +9,17 @@ Simple starter C++ project with:
 
 - cmake
 - googletest
+
+## Assignment output files
+
+The following are the list of files representing the final work products:
+
+- Valgrind output before fixing the bugs as file "Valgrind_Errors.txt";
+- Valgrind output after fixing the bugs as file "Valgrind_Errors_Rectified_Log.txt"; and
+- Valgrind function and memory profiler output as file "Valgrind_Function_and_Memory_Profiler_Output_Screenshot.png"
+
+All the above output files are located in the repository root location.
+
 
 ## Standard install via command-line
 ```
